@@ -7,9 +7,13 @@ Serie: #6 inmersiones en Google Apps Script
 
 
 [1/6] El Primer Google Apps Script - Modo Standalone
+
 [2/6] Scripts Copados en la Hoja de Calculo de Google
+
 [3/6] Enviando Formularios a un grupo por mail
+
 [4/6] Generar Gráficos de Estadísticas para enviarlos por mail
+
 [5/6] Como agregar eventos a los Google Calendar
 
 
