@@ -6,8 +6,7 @@ El desarrollo de estos ejercicios está explicado en la página: www.ProbarNoCue
 Serie: #6 inmersiones en Google Apps Script
 
 
-[1/6] El Primer Google Apps Script - Modo Standalone
-[http://www.probarnocuestanada.com/2015/07/primer-google-apps-scripts-standalone-envio-mail.html](http://www.probarnocuestanada.com/2015/07/primer-google-apps-scripts-standalone-envio-mail.html)
+[1/6] [El Primer Google Apps Script - Modo Standalone](http://www.probarnocuestanada.com/2015/07/primer-google-apps-scripts-standalone-envio-mail.html)
 
 [2/6] Scripts Copados en la Hoja de Calculo de Google
 [http://www.probarnocuestanada.com/2015/07/entrega-2-de-6-scripts-copados-en-la-hoja-de-calculo-google.html](http://www.probarnocuestanada.com/2015/07/entrega-2-de-6-scripts-copados-en-la-hoja-de-calculo-google.html)
